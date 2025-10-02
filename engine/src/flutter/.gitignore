@@ -126,7 +126,7 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 
 # Prebuilt binaries.
-/prebuilts/
+# /prebuilts/
 
 # TODO(67373): This entry is temporarily disabled, but can be restored once the
 # buildmoot is completed.
